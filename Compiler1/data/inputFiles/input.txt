@@ -1,0 +1,4 @@
+program{
+z=a+b;
+};
+
